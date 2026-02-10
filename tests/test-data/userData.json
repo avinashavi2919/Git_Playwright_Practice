@@ -1,0 +1,28 @@
+{
+  "name": "Virat",
+  "email": "testmanual003@example.com",
+  "password": "Virat@12345",
+  "InvaliEmail":"Virat123@gmail.com",
+  "InvalidPassword":"ViratKohli123",
+   "subject": "Test Subject",
+  "message": "This is a sample contact form message.",
+
+  "dob": {
+    "day": "4",
+    "month": "8",
+    "year": "2001"
+  },
+
+  "address": {
+    "firstName": "Virat",
+    "lastName": "Kohli",
+    "company": "ABC Pvt Ltd",
+    "address1": "123 Main Street",
+    "address2": "Apt 4B",
+    "country": "India",
+    "state": "Andhra Pradesh",
+    "city": "Anantapur",
+    "zipcode": "515001",
+    "mobile": "9876543210"
+  }
+}
